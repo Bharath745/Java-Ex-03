@@ -73,7 +73,7 @@ public class DaysInMonth
 }
 ```
 ## Output:-
-![output](op.png)
+![op](https://github.com/Bharath745/Java-Ex-03/assets/94508354/d64d9ae7-b749-40fc-a2b3-3a6caedcdb7b)
 
 ## Result:-
 A java program to find the number of day in a month has been executed successfully.
